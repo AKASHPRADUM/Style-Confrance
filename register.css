@@ -1,6 +1,6 @@
 .all{
     font-family: 'Poppins', sans-serif;
-    background-image: url("../img/bg1.jpg");
+    background-image: url("img/bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -37,7 +37,6 @@
 }
 label , p{
     font-size: 1.3rem;
-    /* background-color: blue; */
 }
 .title{
     margin: 8px 0px;
