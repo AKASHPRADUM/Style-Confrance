@@ -1,0 +1,42 @@
+.bg-white{
+    background-color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 5% 18% 0% 0%;
+}
+.grid-box{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-auto-rows: minmax(27px ,auto);
+    row-gap: 13px;
+    column-gap: 3em;
+    line-height: normal;
+    padding-bottom: 45px;
+}
+.bold-heading{
+    font-size: 24px;
+    font-weight: 500;
+}
+.grid-item{
+    padding-top: 12px;
+}
+.grid-item a span:hover{
+    color: rgb(192, 192, 192);
+}
+.toright{
+    text-align: end;
+}
+.grid-box a{
+    color: #888;
+}
+.block-size{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+.secound-element{
+    padding-right: 6%;
+}
+.top-border{
+    border-top: 1px solid #dfe2e5;
+}

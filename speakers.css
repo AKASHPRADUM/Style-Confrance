@@ -1,0 +1,72 @@
+
+.speaker-main-container{
+    margin: 0 auto;
+    width: 911px;
+}
+.speaker-main-container h2{
+    font-size: 22px;
+    font-weight: 500;;
+    padding: 50px 0px 10px 0px;
+}
+.speaker-main-container p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    line-height: 17px;
+}
+.bg-white{
+    background-color: white;
+    /* font-size: 15px; */
+}
+h5 {
+    color: #a9b2b9;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+}
+.speaker{
+    padding-bottom: 20px;
+}
+.person{
+    width: 66.66%;
+    padding: 0px 7px
+}
+.person, .speaker-side-container {
+    display: inline-block;
+    vertical-align: top;
+}
+.speaker-side-container{
+    padding: 2px 8px;
+}
+.speaker-info {
+    border: 1px solid #dfe2e5;
+    border-radius: 8px;
+    margin-top: 118px;
+    padding: 52px 69px;
+    text-align: center;
+}
+.speaker-info img {
+    border-radius: 50%;
+    height: 117px;
+    margin: -106px 0 22px 0;
+    vertical-align: top;
+}
+.speaker-info ul{
+    list-style: none;
+}
+.speaker-info a {
+    color: #888;
+    display: block;
+    line-height: normal;
+    font-size: 15px;
+    font-weight: 300;
+}
+.person a{
+    color: #888;
+    display: inline-block;
+    line-height: normal;
+    font-size: 15px;
+    font-weight: 300;
+    text-decoration: underline;
+}
